@@ -4,12 +4,9 @@
 
 
 # 💫 About Me:
-Hello, I'm Praful Gotmare! 👋<br>Machine Learning Engineer/ Data Analyst<br>worked with python,
+Hello, I'm Praful Gotmare! 👋<br>Machine Learning Engineer/ Data Analyst<br>I worked with python,
 data science and machine learning algorithms focused in business solutions.
-For more details about my projects and each solution,
-they are described in the data science project section.
-
-
+Feel free to explore my GitHub repositories to gain insights into my projects, contributions, and technical expertise. I am open to collaboration and welcome opportunities to work on challenging machine learning projects that drive positive change.<br>Connect with me to discuss ideas, share insights, or explore potential collaborations. Let's harness the power of data and machine learning to shape a smarter and more connected future.
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
